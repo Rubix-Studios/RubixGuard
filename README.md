@@ -1,7 +1,5 @@
 # RubixGuard
-
-## Why RubixGuard?
-RubixGuard is the #1 AntiVPN only working on BungeeCord.
+Coming Soon
 
 
 ## Support Discord
